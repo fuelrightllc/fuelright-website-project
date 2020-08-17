@@ -1,3 +1,5 @@
+/bin
+
 # gitignore template for Drupal 8 projects
 #
 # earlier versions of Drupal are tracked in `community/PHP/`
@@ -22,6 +24,7 @@
 /sites/simpletest
 
 # Ignore drupal core (if not versioning drupal sources)
+/web
 /core
 /modules/README.txt
 /profiles/README.txt
